@@ -7,4 +7,4 @@ To run, clone this project, then in the project dir, run:
 python -m SimpleHTTPServer
 ```
 
-And open [http://localhost:8000/](http://localhost:8000/) in your browser.
+And open [http://localhost:8000/d3table.html](http://localhost:8000/d3table.html) in your browser.
